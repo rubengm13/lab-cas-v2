@@ -1,0 +1,22 @@
+company: "Acme Corp"
+employees:
+  - name: "John Doe"
+    age: 30
+    role: "Engineer"
+  - name: "Jane Smith"
+    age: 25
+    role: "Manager"
+  - name: "Bob Johnson"
+    age: 35
+    role: "Intern"
+location:
+  city: "New York"
+  country: "USA"
+products:
+  - name: "Widget"
+    price: $10.99
+  - name: "Gadget"
+    price: $15.99
+  - name: "Thingamajig"
+    price: $20.99
+}
